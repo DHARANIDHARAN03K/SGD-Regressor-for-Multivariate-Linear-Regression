@@ -99,6 +99,7 @@ Predictions:
 
 ![image](https://github.com/user-attachments/assets/b77ffb35-a3f7-49e6-a984-d2c84432cc04)
 
+mean
 ![image](https://github.com/user-attachments/assets/ec45c748-c810-43c5-a338-409e7f95add9)
 
 ![image](https://github.com/user-attachments/assets/3e47f3aa-9b55-4218-9807-56007c5b445e)
